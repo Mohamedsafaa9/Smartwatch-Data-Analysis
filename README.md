@@ -1,5 +1,4 @@
 # Smartwatch-Data-Analysis
-# Smartwatch Data Analysis
 
 ## Overview
 This project involves analyzing data collected from a smartwatch. The analysis includes exploring various health metrics such as heart rate, steps, sleep patterns, and activity levels. The goal is to provide insights into the wearer's health and wellness over time.
